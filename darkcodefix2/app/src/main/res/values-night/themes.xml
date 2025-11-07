@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema da aplicação para o modo claro -->
+    <style name="Theme.DarkCodeRC" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Atributos de cor primária e secundária -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryVariant">@color/primaryVariantColor</item>
+        <item name="colorOnPrimary">@color/onPrimaryColor</item>
+
+        <item name="colorSecondary">@color/secondaryColor</item>
+        <item name="colorSecondaryVariant">@color/secondaryVariantColor</item>
+        <item name="colorOnSecondary">@color/onSecondaryColor</item>
+        
+        <!-- Cor de fundo da janela e da superfície -->
+        <item name="android:windowBackground">@color/windowBackground</item>
+        <item name="colorSurface">@color/surfaceColor</item>
+        <item name="colorOnSurface">@color/onSurfaceColor</item>
+
+        <!-- Cores do texto -->
+        <item name="android:textColorPrimary">@color/textColorPrimary</item>
+        <item name="android:textColorSecondary">@color/textColorSecondary</item>
+
+        <!-- Cor da barra de navegação do sistema -->
+        <item name="android:navigationBarColor">@color/navigationBarColor</item>
+
+        <!-- Personalizações adicionais, como a barra de status -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Outros atributos como tipografia e formas também podem ser definidos aqui -->
+    </style>
+</resources>
+

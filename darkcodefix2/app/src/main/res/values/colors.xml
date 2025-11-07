@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Fundo escuro do chat -->
+    <color name="dark_chat_background">#121212</color>
+
+    <!-- Cores básicas para modo escuro -->
+    <color name="colorPrimary">#1F1F1F</color>
+    <color name="colorPrimaryVariant">#2C2C2C</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorSecondary">#BB86FC</color>
+    <color name="colorOnSecondary">#000000</color>
+</resources>

@@ -1,0 +1,110 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/darkcode/app/src/main/java/com/irc/darkcode/MainActivity.kt",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 11734,
+          "line": 331
+        },
+        "start": {
+          "column": 1,
+          "index": 11734,
+          "line": 331
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/darkcode/app/src/main/AndroidManifest.xml",
+      "selection": {
+        "end": {
+          "column": 11,
+          "index": 1439,
+          "line": 35
+        },
+        "start": {
+          "column": 11,
+          "index": 1439,
+          "line": 35
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/darkcode/app/src/main/java/com/irc/darkcode/AddServerActivity.kt",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 2680,
+          "line": 51
+        },
+        "start": {
+          "column": 1,
+          "index": 2680,
+          "line": 51
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/darkcode/app/src/main/java/com/irc/darkcode/ServerDetailActivity.kt",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 3719,
+          "line": 100
+        },
+        "start": {
+          "column": 1,
+          "index": 3719,
+          "line": 100
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/darkcode/app/src/main/java/com/irc/darkcode/irc/ircClient.kt",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 2996,
+          "line": 92
+        },
+        "start": {
+          "column": 1,
+          "index": 2996,
+          "line": 92
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/darkcode/app/src/main/java/com/irc/darkcode/ServerConfig.kt",
+      "selection": {
+        "end": {
+          "column": 59,
+          "index": 463,
+          "line": 15
+        },
+        "start": {
+          "column": 59,
+          "index": 463,
+          "line": 15
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/darkcode/app/src/main/java/com/irc/darkcode/ServersListScreen.kt",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 2262,
+          "line": 61
+        },
+        "start": {
+          "column": 1,
+          "index": 2262,
+          "line": 61
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/darkcode/app/src/main/java/com/irc/darkcode/MainActivity.kt"
+}
